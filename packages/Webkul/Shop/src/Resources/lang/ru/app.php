@@ -5,10 +5,10 @@ return [
         'forgot-password' => [
             'already-sent'         => 'Письмо для сброса пароля уже отправлено.',
             'back'                 => 'Вернуться к входу?',
-            'bagisto'              => 'Багисто',
+            'bagisto'              => 'Shop',
             'email'                => 'Электронная почта',
             'email-not-exist'      => 'Мы не можем найти пользователя с этим адресом электронной почты.',
-            'footer'               => '© Авторское право 2010 - :current_year, Webkul Software (зарегистрировано в Индии). Все права защищены.',
+            'footer'               => ' :current_year ',
             'forgot-password-text' => 'Если вы забыли свой пароль, восстановите его, введя свой адрес электронной почты.',
             'page-title'           => 'Забыли пароль?',
             'reset-link-sent'      => 'Мы отправили вам ссылку для сброса пароля на вашу электронную почту.',
@@ -19,21 +19,21 @@ return [
 
         'reset-password' => [
             'back-link-title'  => 'Вернуться к входу',
-            'bagisto'          => 'Багисто',
+            'bagisto'          => 'Shop',
             'confirm-password' => 'Подтвердите пароль',
             'email'            => 'Зарегистрированная почта',
-            'footer'           => '© Авторское право 2010 - :current_year, Webkul Software (зарегистрировано в Индии). Все права защищены.',
+            'footer'           => ' :current_year ',
             'password'         => 'Пароль',
             'submit-btn-title' => 'Сбросить пароль',
             'title'            => 'Сброс пароля',
         ],
 
         'login-form' => [
-            'bagisto'             => 'Багисто',
+            'bagisto'             => 'Shop',
             'button-title'        => 'Войти',
             'create-your-account' => 'Создайте свой аккаунт',
             'email'               => 'Электронная почта',
-            'footer'              => '© Авторское право 2010 - :current_year, Webkul Software (зарегистрировано в Индии). Все права защищены.',
+            'footer'              => ' :current_year ',
             'forgot-pass'         => 'Забыли пароль?',
             'form-login-text'     => 'Если у вас есть аккаунт, войдите, используя свой адрес электронной почты.',
             'invalid-credentials' => 'Пожалуйста, проверьте свои учетные данные и попробуйте снова.',
@@ -48,12 +48,12 @@ return [
 
         'signup-form' => [
             'account-exists'              => 'Уже есть аккаунт?',
-            'bagisto'                     => 'Багисто',
+            'bagisto'                     => 'Shop',
             'button-title'                => 'Зарегистрироваться',
             'confirm-pass'                => 'Подтвердите пароль',
             'email'                       => 'Электронная почта',
             'first-name'                  => 'Имя',
-            'footer'                      => '© Авторское право 2010 - :current_year, Webkul Software (зарегистрировано в Индии). Все права защищены.',
+            'footer'                      => ' :current_year ',
             'form-signup-text'            => 'Если вы новичок в нашем магазине, мы рады видеть вас как участника.',
             'last-name'                   => 'Фамилия',
             'page-title'                  => 'Стать пользователем',
@@ -328,7 +328,7 @@ return [
         'layouts' => [
             'header' => [
                 'account'           => 'Аккаунт',
-                'bagisto'           => 'Багисто',
+                'bagisto'           => 'Shop',
                 'cart'              => 'Корзина',
                 'compare'           => 'Сравнить',
                 'dropdown-text'     => 'Управление корзиной, заказами и списком желаний',
@@ -352,7 +352,7 @@ return [
                 'currency'               => 'Валюта',
                 'customer-service'       => 'Служба поддержки',
                 'email'                  => 'Электронная почта',
-                'footer-text'            => '© Авторское право 2010 - :current_year, Webkul Software (зарегистрировано в Индии). Все права защищены.',
+                'footer-text'            => ' :current_year ',
                 'locale'                 => 'Язык',
                 'newsletter-text'        => 'Подготовьтесь к нашей интересной рассылке!',
                 'order-return'           => 'Заказ и возврат',
@@ -626,7 +626,7 @@ return [
             'suspended-account-message' => 'Ваш аккаунт был приостановлен.',
 
             'index' => [
-                'bagisto'                  => 'Багисто',
+                'bagisto'                  => 'Shop',
                 'cart'                     => 'Корзина',
                 'continue-shopping'        => 'Продолжить покупки',
                 'empty-product'            => 'В вашей корзине нет товаров.',
