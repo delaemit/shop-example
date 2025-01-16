@@ -1,3 +1,9 @@
+# Admin panel
+https://demo.dev-2-tech.ru/admin
+admin@example.com
+admin123
+
+
 <p align="center">
     <a href="http://www.bagisto.com"><img src="https://bagisto.com/wp-content/themes/bagisto/images/logo.png" alt="Total Downloads"></a>
 </p>
